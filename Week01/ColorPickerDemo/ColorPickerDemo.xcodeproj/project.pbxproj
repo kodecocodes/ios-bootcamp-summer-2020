@@ -12,9 +12,9 @@
 		12107B4724843D8D00D8C8AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12107B4624843D8D00D8C8AD /* ViewController.swift */; };
 		12107B4A24843D8D00D8C8AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12107B4824843D8D00D8C8AD /* Main.storyboard */; };
 		12107B4C24843D9300D8C8AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12107B4B24843D9300D8C8AD /* Assets.xcassets */; };
+		125152042489EB7C009D75FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 125152032489EB7C009D75FC /* LaunchScreen.storyboard */; };
 		12D983232487FC8400E85991 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12D983222487FC8400E85991 /* WebKit.framework */; };
 		12D983272487FD8400E85991 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12D983262487FD8400E85991 /* AboutViewController.swift */; };
-		12D9832A24880F0500E85991 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12D9832924880F0500E85991 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,9 +25,9 @@
 		12107B4924843D8D00D8C8AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		12107B4B24843D9300D8C8AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12107B5024843D9300D8C8AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		125152032489EB7C009D75FC /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		12D983222487FC8400E85991 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		12D983262487FD8400E85991 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
-		12D9832924880F0500E85991 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../../../../../Color Picker Homework/ColorPickerDemo/ColorPickerDemo/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +66,8 @@
 				12107B4224843D8D00D8C8AD /* AppDelegate.swift */,
 				12107B4424843D8D00D8C8AD /* SceneDelegate.swift */,
 				12107B4824843D8D00D8C8AD /* Main.storyboard */,
+				125152032489EB7C009D75FC /* LaunchScreen.storyboard */,
 				12107B4B24843D9300D8C8AD /* Assets.xcassets */,
-				12D9832924880F0500E85991 /* LaunchScreen.storyboard */,
 				12107B5024843D9300D8C8AD /* Info.plist */,
 			);
 			path = ColorPickerDemo;
@@ -148,7 +148,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12D9832A24880F0500E85991 /* LaunchScreen.storyboard in Resources */,
+				125152042489EB7C009D75FC /* LaunchScreen.storyboard in Resources */,
 				12107B4C24843D9300D8C8AD /* Assets.xcassets in Resources */,
 				12107B4A24843D8D00D8C8AD /* Main.storyboard in Resources */,
 			);
