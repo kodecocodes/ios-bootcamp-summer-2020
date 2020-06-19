@@ -1,0 +1,34 @@
+[{
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "currentValue": 42,
+  "previousValue": 40
+},{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "currentValue": 36,
+  "previousValue": 20
+},{
+  "name": "Tron",
+  "symbol": "TRN",
+  "currentValue": 16,
+  "previousValue": 18
+},
+{
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "currentValue": 24,
+  "previousValue": 38
+},
+{
+  "name": "Ripple",
+  "symbol": "XRP",
+  "currentValue": 9,
+  "previousValue": 10
+},
+{
+  "name": "NXT",
+  "symbol": "NXT",
+  "currentValue": 39,
+  "previousValue": 29
+}]
