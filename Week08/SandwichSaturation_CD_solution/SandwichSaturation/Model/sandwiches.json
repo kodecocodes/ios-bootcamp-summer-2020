@@ -1,0 +1,12 @@
+[
+  { "name": "Bagel Toast", "sauceAmount": "None", "imageName": "sandwich1" },
+  { "name": "Bologna", "sauceAmount": "None", "imageName": "sandwich2" },
+  { "name": "Breakfast Roll", "sauceAmount": "None", "imageName": "sandwich3" },
+  { "name": "Club", "sauceAmount": "None", "imageName": "sandwich4" },
+  { "name": "Sub", "sauceAmount": "None", "imageName": "sandwich5" },
+  { "name": "Steak", "sauceAmount": "Too Much", "imageName": "sandwich6" },
+  { "name": "Dunno", "sauceAmount": "Too Much", "imageName": "sandwich7" },
+  { "name": "Torta", "sauceAmount": "Too Much", "imageName": "sandwich8" },
+  { "name": "Ham", "sauceAmount": "Too Much", "imageName": "sandwich9" },
+  { "name": "Lettuce", "sauceAmount": "Too Much", "imageName": "sandwich10" }
+]
